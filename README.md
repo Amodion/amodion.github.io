@@ -1,5 +1,3 @@
-# amodion.github.io
-
 <!DOCTYPE html>
 <html>
 <body>
